@@ -1,2 +1,1 @@
-# triggersandsparks
-Content of triggersandsparks.com
+This is the post & page content for triggersandsparks.com. I'm using the [WordPress-Github-Sync plugin](https://github.com/mAAdhaTTah/wordpress-github-sync) it in the hopes this will persuade me to write new posts, as well as to play around with a better method of content syncing. 
