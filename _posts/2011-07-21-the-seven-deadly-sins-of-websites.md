@@ -1,0 +1,42 @@
+---
+ID: 1483
+post_title: 'The Seven Deadly Sins of&nbsp;Websites'
+author: sarah semark
+post_date: 2011-07-21 13:43:48
+post_excerpt: ""
+layout: post
+permalink: >
+  https://triggersandsparks.com/blog/the-seven-deadly-sins-of-websites/
+published: true
+Subtitle:
+  - "I actually needed to look up how many sins there are. Clearly, I'm headed directly for fiery damnation."
+---
+Forgive me father, for I have sinned. Actually, <em>I</em> haven't, but you probably have. I don't mean gluttony, lust, et. al. Honestly, some of those really have their time and place. I'm talking about the things that I see over and over, on websites big and small, that absolutely drive me insane. I make websites for a living. If I can't use yours, or get frustrated by it and leave, there's a good chance that your target market (unless they're more technically-inclined than I am, which they're probably not) is having an even worse time. Lucky for you, I'll tell you about it! (Just ask about the time I gave a long speech to a poor phone-line person at my bank because their website only supported IE.)
+<h2>1. Text that isn't text.</h2>
+Restaurant websites, I'm looking at you in particular. Scanning your paper menu and throwing it up on your website as an image file or a PDF is the equivalent of creating a door by drawing it in chalk on the side of your house. Never mind the fact that your SEO is going to hell, that it's a pain to update anything, and it probably looks terrible. This is just a nightmare from a usability standpoint. This is pretty vital information, and locking it up in as an image means that the information becomes infinitely less accessible. Your users can't copy-and-paste bits. It's harder to see on a smartphone. They can't resize the fonts if they can't read something. It won't conform to the available space, so they'll probably be stuck scrolling back and forth, or they'll miss your great deal on Kung Pao chicken.
+
+It's 2011. You can use almost any font you want in a website now. You can do amazing things with fine-tuned typography you couldn't do three years ago. There's no excuse for lazy-designer tricks like these. Text should be text.
+<h2>2. Flash.</h2>
+<a title="Why I Don’t Like Flash" href="http://triggersandsparks.com/blog/why-i-dont-like-flash/">I've said it before</a>, and lots of other people have said it before me, but it bears repeating. Don't use Flash. Flash is slow-loading, doesn't work on an iAnything, and generally is built quite badly. It generally crashes my browser these days (poor LazarusBook). Also, see above, and also below.
+<h2>3. Stuff that sings, jumps, dances, or otherwise behaves like an over-excited puppy.</h2>
+I'm the first to admit I'm a bit of a control freak, but most people don't like it when you hijack their machines without asking first. I was visiting a website the other day that had the most obnoxious ad I've ever seen—five seconds after loading, this huge man appeared in the browser window and started talking at me. It was terrifying.
+
+Most people know better than to load up their websites with giant-obnoxious-talking-man-ads, but there are many subtler examples of this. Links that open in new windows automatically (I'll do this on my own if I want, thank you). Music and video that starts automatically (typically embarrassing people with speakers connected, and leaving me hunting around to find the offending site). 99.98% of animated gifs, banners, and ads. Let your users control how they interact with your website, or they'll just leave.
+
+[caption id="attachment_1490" align="alignnone" width="450" caption="You can repent all you want, but if your website sings at me, you&#39;re damned to an eternity of animated fiery gifs. (Photo from a street corner somewhere in Rome.)"]<a href="http://triggersandsparks.com/wp-content/uploads/2011/07/F1860003.jpg"><img class="size-medium wp-image-1490 " title="Ave Maria" src="http://triggersandsparks.com/wp-content/uploads/2011/07/F1860003-500x335.jpg" alt="Ave Maria" width="450" height="302" /></a>[/caption]
+<h2>4. Ugly design.</h2>
+My sister's in library studies, and one of her prerequisites is a "web design" course. I told her she could save the $500 that credit probably cost her, and I could teach her the whole thing in ten seconds. <strong>Hire a web designer.</strong> This isn't a self-serving statement. I don't care (much) if you hire me, or if you hire some other competent designer. You can't learn design from a three-month course. There's all sorts of crazy complicated stuff, both technical and aesthetic, that goes into design. The reason most people don't understand this is because good design is like a great push-up bra: it supports and enhancing its content without overpowering it. In theory, you're not supposed to notice it. But it makes a huge difference.
+<h2><span class="Apple-style-span" style="font-size: 20px;">5. Bad code.</span></h2>
+Your website should be standards-compliant, semantically coded, and easy to update. If your web designer/developer doesn't understand what these things mean, hire someone else. Surprisingly enough, there <em>are</em> still websites using tables. And frames. And inline boxes. Remember that internet years are like dog years, except longer, and that developers need to be constantly learning new stuff in order to make great websites. Make sure you hire someone who knows what they're doing from a technical point of view, and you'll end up with a website that performs far better—in terms of page speed, browser compatibility, and search engine rankings—than you would otherwise.
+<h2>6. Business-speak.</h2>
+A website is not a brochure. Most people reading online have the attention spans of drunk goldfish. Keep things short and scannable and people are more likely to read what you've written (says the woman who regularly writes 1000+ word blog posts). Stop using business-newspeak to make yourself sound more important. People no longer care about that sort of thing (unless they're in government, in which case, aim for as dry and nap-inducing as possible). The internet is a scary place, full of fraud and Nigerian princes. Speak with a voice that's genuinely yours and people will be more inclined to trust you.
+<h2><span class="Apple-style-span" style="font-size: 20px;">7. It's broken.</span></h2>
+About three years ago, I bought a box of something from a certain unnamed food company with initials in their name. I've never bought anything from them since, but they gave me a card and a number at the time and signed me up for their mailing list. When I tried to unsubscribe, their website demanded that I submit both my email address and the number on the card that I'd never used and had lost. I put up with their irrelevant weekly mailings for some time until I finally found my card and unsubscribed.
+
+When I did, their website told me it would take ten days to remove my address. Really? Ten days? Is your database maintained in a notebook or something? That's utterly ridiculous. The best part was that after two weeks, they were still emailing me, and I had to send a long, cranky email explaining how broken their system was and that I really should be able to unsubscribe without putting as much effort into it as one typically does when getting a divorce. (They never responded, but I haven't received any more emails—yet.)
+
+This is a more minor example, but I've seen lots of websites that are broken in more major ways. Contact forms fail and there's no fallback email address. Shopping carts that don't check out. Validation routines that maintain "Buenos Aires" is not a city in Argentina (I lived there. Trust me, it is.) Test your websites, make sure they work, and fix them if they're broken.
+
+[caption id="attachment_1491" align="alignnone" width="450" caption="Jesus died for your sins, not so that you can throw the word &quot;synergy&quot; around like it&#39;s going out of style. (Photo from Tierra Santa, the religious theme park in Buenos Aires. Don&#39;t worry, Jesus later rises, in giant animatronic style, from the hilltop.)"]<a href="http://triggersandsparks.com/wp-content/uploads/2011/07/5762372154_f67852834d_z.jpg"><img class="size-medium wp-image-1491 " title="Crucifixion" src="http://triggersandsparks.com/wp-content/uploads/2011/07/5762372154_f67852834d_z-500x373.jpg" alt="Crucifixion" width="450" height="336" /></a>[/caption]
+
+So hire a designer already, and save yourself for the sins you can really take pleasure in.

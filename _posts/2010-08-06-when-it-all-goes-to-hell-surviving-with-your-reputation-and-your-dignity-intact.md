@@ -1,0 +1,42 @@
+---
+ID: 1112
+post_title: >
+  Surviving with your reputation—and
+  your dignity—intact
+author: sarah semark
+post_date: 2010-08-06 10:17:30
+post_excerpt: ""
+layout: post
+permalink: >
+  https://triggersandsparks.com/blog/when-it-all-goes-to-hell-surviving-with-your-reputation-and-your-dignity-intact/
+published: true
+Subtitle:
+  - When it all goes to hell
+---
+Shit happens. It may be trite, but it's true. You can be the most organized, thoughtful, and thoroughly prepared businessperson in the universe, but eventually, somewhere along the line, things will spiral out of control. Suddenly, your meticulously planned project has turned into a beast: a mess of missed deadlines, a slew of thwarted expectations, or an end product that simply isn't shaping up right.
+
+I'm a control freak, so of course I don't let this happen too often. However, last week, a big project I've been working on for some time got away from me. It had been slowly plodding along, months behind deadline and mostly-stagnant, while I worked on other things and waited for the bits and pieces I needed to come in. I figured nothing was wrong, really---sure, we were way behind deadline, but the client knew that, since they missed <em>their</em> deadlines, right? The design process tends to stall if the client isn't coming up with their end of things (feedback, content, etc), so I'm used to projects that go into a bit of stasis for a while. I figured it wasn't a big deal.
+
+[caption id="" align="alignnone" width="419" caption="Kabloo-ey!"]<a href="http://en.wikipedia.org/wiki/Bikini_atomic_experiments"><img class="      " title="Kaboom!" src="http://upload.wikimedia.org/wikipedia/commons/0/09/Operation_Crossroads_Baker_Edit.jpg" alt="Kaboom!" width="419" height="221" /></a>[/caption]
+
+Wow, was I ever wrong. Suddenly, something happened with the client---I'm guessing that my contacts got chewed out by their boss---and they started emailing me three times a day, asking where things were. I was working on a team with a writer and a project manager, plus two client contacts, and there was suddenly a massive influx of emails flying around all over the place, each more aggressive and inflammatory than the last. I had been working with an illustrator based out of [somewhere far away], and I started to realize he just wasn't delivering in a timely manner, he'd go AWOL for days on end, and that I wasn't able to properly communicate my client's vague directions to him. My stress levels spiked, and panic set in.<em> I'm going to fail</em>, I told myself.<em> I'm going to fail, the project will tank, and I'll never work again. It's over for me. Might as well start handing out resumes to coffeeshops now. </em>
+
+But apparently I've now got this big bad logical-calm-adult brain going on. It told the panicky screaming little kid inside my head to shush, and started figuring out how to fix things. Now, a week later, the project is nearly finished (well, sort of), my stress levels are reduced significantly, and I'm working with a new illustrator who's turning stuff around at light speed and gets my client far better than I do.
+
+<!--more-->So, apparently all projects--except maybe the most dire of cases---can be salvaged. Regardless of who's at fault or what's gone wrong, the process of finding a solution is relatively constant. This is how I go about it.
+<h2>1. Get communicative.</h2>
+Good communication can fix a whole slew of problems---and in fact, in my experience, bad communication tends to be the <em>cause</em> of most problems. The moment you realize things have gone sour, you need to get in touch with everyone it'll affect (clients, subcontractors, third parties) and let them know what's going on. You may not be able to fix the problem right away, but everyone will appreciate feeling as though they're in the loop. I've found it's also helpful to email people if I won't be able to tackle a task within 24 hours---a quick message to say <em>I got your email, and I'll deal with it tomorrow when I have time</em> is often enough that your client doesn't feel like you've abandoned him. This is enough of a danger when a project is running smoothly---when things have gone amuck, it's doubly so.
+<h2>2. Own up to your mistakes.</h2>
+Ideally, you won't be responsible in any way, shape, or form, for the project's failure. Realistically, I've found that in most cases of project hell, every party involved is at least fractionally to fault. Take responsibility for your own errors or mismanagement---without making an ordeal out of overly profuse or insincere apologies. Identifying your own failings up-front and honestly shows your client that you aren't afraid to admit to your mistakes. If you can identify and apologize for your failings, it also means that your client can't blame you for problems that aren't your fault, and you don't get sucked into a vicious cycle of accusation. At this point, playing the blame game gets you nowhere; what you need is a <em>solution</em>.
+<h2>3. Figure out a solution, or two, or three.</h2>
+Once you've admitted fault, it is absolutely necessary to immediately present alternate solutions, so as to avoid focusing attention on the blame portion of the conversation. Ideally, you want everyone to be focused on solving the problem, rather than getting wrapped up in what went wrong and who's to blame for what. (That's a conversation for later.) Remind everyone that the primary concern is solving the problem. Then, present as many solutions as you can dream up. By offering up choices, you are giving your client a renewed sense of control, which will reduce his panic while also serving to limit your responsibility, should things go sour again. Remember when presenting solutions to outline all the pros and cons of each option, and don't hesitate to suggest the "best solution", if one exists.
+<h2>4. Be willing to bend, just a tiny little bit.</h2>
+Your flexibility should be directly proportionate to how much at fault you are. Missed an important deadline? Promise priority turnaround for the remainder of the project, without a rush fee. Sent the wrong file to the printer? Offer to work a few hours extra for free, and swallow the costs. Don't put yourself in the poorhouse, but do what you can. Sometimes just a gesture of compromise will be enough to make your client realize that you're doing everything you can to get things back on track.
+<h2>5. Make it very clear who is responsible for what.</h2>
+Especially important in a project where deadlines are an issue (I'm thinking that would be all of them?) and you require feedback or content from your client. Send them an updated timeline that outlines each party's responsibilities, and the deadline for each deliverable. I don't often tend to use "hard" dates, as I find the moment that one gets shifted, everything else gets thrown out of balance. Instead, I'll count the days required for turnaround. Want a website done by next week? Give me content tomorrow---I can have it turned around in four days. If you wait 'til next week, your website won't be done on time. That way, your client can better understand what his responsibilities are in order to meet a deadline.
+<h2>6. Learn from your mistakes.</h2>
+It seems like a given, but it's important to make sure you learn how to avoid the situation in the future. If the client is open to it, consider having a brief post-mortem after the project's completed---this way, you can get their input both on the disaster itself and on how you handled it.
+
+Follow these steps for disaster recovery, and you'll be able to minimize the damage to your business and to your reputation. After all, a <a href="http://triggersandsparks.com/blog/how-to-win-your-designers-eternal-love/">good client</a> will appreciate your forthrightness, your ability to adapt to a bad situation, and the fact you can <a href="http://triggersandsparks.com/blog/learning-from-loving-your-mistakes/">learn from your mistakes</a>!
+
+[caption id="attachment_1116" align="alignnone" width="450" caption="I can&#39;t resist a good fire photo. You know how it is. "]<a href="http://triggersandsparks.com/wp-content/uploads/2010/08/fire_294747_6071.jpg"><img class="size-medium wp-image-1116 " title="fire_294747_6071" src="http://triggersandsparks.com/wp-content/uploads/2010/08/fire_294747_6071-500x375.jpg" alt="fire" width="450" height="338" /></a>[/caption]

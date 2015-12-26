@@ -1,0 +1,23 @@
+---
+ID: 93
+post_title: 'No, Your Other&nbsp;Left'
+author: sarah semark
+post_date: 2007-11-29 17:40:21
+post_excerpt: ""
+layout: post
+permalink: >
+  https://triggersandsparks.com/blog/no-your-emotherem-left/
+published: true
+---
+<p>So according to the Gospel That Is the Internet, I have an ambidextrous brain. (See: pretty balanced between the left and the right sides.) As with most self-evaluations, this came as a monster of a revelation to me. Suddenly, all my years of confusion and ambivalence seem less like a personal failure. For as long as I can remember, I&rsquo;ve felt like I&rsquo;ve been constantly fluctuating between two ends of a dichotomy, and it caused me a great deal of anxiety when I was a kid. (I <em>still</em> haven&rsquo;t learned that I have better things to worry about than my self-identity.) I like math <em>and</em> art. I&rsquo;m inherently chaotic, but always hyper-detail-oriented, and, every now and again, neurotically organized. I always assumed it had something to do with my bipolar nature. I&rsquo;m a woman of extremes, and don&rsquo;t often do the Middle Ground. <!--more--></p>
+
+<p>It seems like we grow up being pushed to follow a particular path; to make clear divisive decisions one way or another as we grow and develop, &ldquo;Jack of all trades, master of none&rdquo;, you know? I&rsquo;ve always found it rather frustrating. I mean, sure, I see the benefit to delving deep into something and learning it inside-out and never coming up for air, but I just can&rsquo;t imagine <em>doing</em> it without being driven out of my head from boredom within three years. I know that people change careers, what is it, an average of three times in their lives, but somehow it seems unfortunate that we have to pigeonhole ourselves into a particular brain-stereotype. You can be a rocket scientist, or you can be a starving artist, but you can&rsquo;t be both. </p>
+<p>But then I realized&mdash;I am both! Well, I&rsquo;m probably closer to the &ldquo;starving artist&rdquo; side of the spectrum right now, but somehow, I managed to totally luck out, and chase down a career that lets me be Captain Left Brain Rational on Monday, and Senor Right Brain Creative on Tuesday. Without even noticing it, I managed to avoid making a huge decision by making a decision. </p>
+
+<p>For example, I spent all of yesterday revamping the code basis for my custom CMS system. It&rsquo;s going to be fantastic when it&rsquo;s done. My clients will have a stronger, faster, smarter application with which to manage their sites, and I&rsquo;ll be able to customize the code to their needs faster and more efficiently. I haven&rsquo;t been tracking the number of hours that have gone into it thus far. It&rsquo;s become a labour of love. But in building it, my programming skills have increased exponentially. I&rsquo;ve solved all kinds of logic-problems. I&rsquo;ve started organizing things. I&rsquo;ve learned structure and methology. Gosh!</p>
+<p>But today? Today I spent most of the day flipping between Photoshop and Illustrator, creating curly vector vines and compositing them over grungy old photographs of notebooks. Another labour of love (I recently came to the realization that as much time as I spend working, only about 30% of it ends up translating into a billable hour, which makes my hourly wage pretty measly. But anyway. Go home, Lefty. No need for numbers today.) And it&rsquo;s been equally fantastic&mdash;I&rsquo;ve been making pretty things, and learning new ways of doing things, and feeling those creative urges coming back. </p>
+
+<p> I remember my dad telling me I ought to pursue graphic design when I was fourteen, and I immediately rejected the idea because it wasn&rsquo;t a career that would stretch my brain. Strange how I ended up here, and how it ended up being actually, rather fantastic for my brain. No Mensa for me!</p>
+<p>P.S. If anyone knows an utterly brilliant way to convert regular old user-entered quote marks into smart, typographically correct quotes <em>while</em> leaving HTML tags alone, <em>and</em> without my having to write a hugely complicated routing full of regular expressions, please feel free to drop me a line. Both sides of my brain will love you for it, because neither of them is looking forward to making it happen. </p>
+
+<p>P.P.S. I&rsquo;ve added the <a href="http://triggersandsparks.com/project/show/67">Seaweed Events site</a> to the &lsquo;folio, and I like it. And there&rsquo;s a new article in <a href="http://triggersandsparks.com/pages/list">the Designer <em>to</em> English wiki</a>, which I&rsquo;m attempting to build up. (Hopefully it will hit four articles by this time next year.)</p>

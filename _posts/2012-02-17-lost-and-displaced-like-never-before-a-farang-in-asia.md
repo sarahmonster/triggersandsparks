@@ -1,0 +1,46 @@
+---
+ID: 1633
+post_title: 'Lost and displaced like never before: a&nbsp;farang in&nbsp;Asia'
+author: sarah semark
+post_date: 2012-02-17 03:43:35
+post_excerpt: "It's my first-time ever in Asia, and I'm a little homesick. This is a new feeling for me, but it's been a long time since I've been somewhere so utterly foreign."
+layout: post
+permalink: >
+  https://triggersandsparks.com/blog/lost-and-displaced-like-never-before-a-farang-in-asia/
+published: true
+Subtitle:
+  - 'Around the world in nine months: number five'
+---
+I've been in Asia a little over a month now, and something strange has been happening. Something I've never experienced before. Something I never expected. Something I just don't know how to handle.
+
+I'm homesick.
+
+I have never, ever, been homesick before. Maybe that sounds strange coming from someone who travels so much, for such long periods of time, or in such a weird way, but I think I'm suited to being a vagabond. I feel more grounded when I'm constantly moving and my environment is always changing. I miss the people I love, and it's often heart-wrenching to say goodbyes, but there's a part of me that really enjoys being a temporary presence in people's lives. (My abandonment complex may also take pleasure in leaving others behind, rather than them leaving me, as a defense mechanism, but that's between Freud and my brain, so let's just ignore it.)
+
+Admittedly, Asia is different from anything I've ever seen or experienced before. Europe, Mexico, and South America, while culturally quite different from what I know, are still infinitely more familiar than Asia is. The difference between Occident and Orient is far larger than I ever would have anticipated. I feel, to a certain degree, "at home" in European-derived cultures, given that my upbringing was mostly British in nature and Canadian in environment. The west, barring the small differences, isn't really all that different, once you get right down to it.
+
+<figure><a href="http://triggersandsparks.com/wp-content/uploads/2012/02/IMG_0010.jpg"><img alt="Shanghai" src="http://triggersandsparks.com/wp-content/uploads/2012/02/IMG_0010.jpg" /></a><figcaption>This was my first view of Asia that wasn't from an airport—from a hotel room in Shanghai, which I booked because I was exhausted after spending twelve hours on various forms of transit between Ensenada to LA for my sixteen-hour flight. I lay down at 10pm to "close my eyes for a second" and woke up at 2am.</figcaption></figure>
+
+Asia, on the other hand, is a totally different world. As much as I'm always drawn to places that are far from what I'm accustomed to, the places I've visited and lived, up to now, aren't all that fundamentally different from North-North America. If nothing else, at least in the western world, I can understand the script, if not so much the languages—with the minor exception of places like Serbia/Bosnia. Here, I've got no footing at all. The languages I've come across thus far tend to be tonal, and use sentence structure that's bizarre to me. The scripts, much as I've tried to learn them, pretty much make my mind implode entirely. (I think I can recognize about six characters in Thai now. If I'm lucky.)
+
+As much as I try to keep an open mind, I'm just not sure I <em>like</em> Asian culture. Certain aspects I think are charming: the barefootedness, the tendency to eat on the streets, the constant use of motorbikes everywhere. But then there's the abject poverty and lack of infrastructure (Cambodia is the poorest country I've ever visited, and it's a little heartbreaking), the subtle misogyny underscoring the culture (in a way that's more pervasive in part because it's less blatant than it is in machismo-heavy cultures like Mexico and Argentina), and the parallel concepts of subservience and humility (both of which are certainly nice in some respects, but ultimately lead to people being constantly trampled on by, and accepting, their horrifically corrupt governments, often without question).
+
+These are sweeping generalizations, of course, but they're overarching concepts I'm struggling to come to terms with at this point, and I think they're a large part of what makes me feel displaced.
+
+<figure><a href="http://triggersandsparks.com/wp-content/uploads/2012/02/IMG_0075.jpg"><img alt="Siem Reap" src="http://triggersandsparks.com/wp-content/uploads/2012/02/IMG_0075.jpg" /></a><figcaption>Siem Reap, Cambodia. Surprisingly pretty, although because of Ankor Wat, it was insanely tourist-laden, which I didn't much care for. Most notably, it seemed that most of the tourists were completely blind to the state of the country surrounding them, which interests me far more than the temples and ruins.</figcaption></figure>
+
+<p class="cap">There are other things, of course. My interpersonal relationships have shifted substantially since Mexico: I've been lucky enough to have people come visit me, but I've had a grand total of a week to myself, and that was my first week in Bangkok. Since then, I've been sharing rooms with others and spending vast tracts of time with friends of mine, <em>every single day</em>. Which is great, I mean, I'm so damned lucky—I was most worried about becoming lonely and missing people—but it's still hard on me. At one point, when I spent a week in Oaxaca and Mexico City with some friends, I fell into a pretty harsh depression for about a day because I'd spent so much time around other people. I love my friends and I wouldn't be half the person I am without them, but I cannot survive without "recharging" time away from <em>everyone</em>.</p>
+
+Much of this article about "<a href="http://www.theatlantic.com/magazine/archive/2003/03/caring-for-your-introvert/2696/">caring for your inner introvert</a>" applies to me. I know a lot of people who don't believe I'm an introvert because I'm friendly and open (most of the time), but much of that is exhausting to me. While I enjoy, require, and thrive on socialization, it's best in small doses. I often need to force myself to socialize, because my instinct is to shy away from others, but I know it teaches me a lot and I really do enjoy meeting new people. That is, when I'm not feeling like a misanthropic hermit—which is only about 30% of the time.
+
+A big part of travelling for me is that sense of independence I derive from landing in a foreign city. I <em>love</em> feeling lost and alone, forced to figure out my own way of surviving. I like walking down streets, watching, listening to music, turning at my own whims. With others, it's a different experience altogether. There's a certain amount of compromise that needs to be made, and you have to spend a lot of time talking. While it's certainly enjoyable—which oftentimes, travelling solo is not—it's <em>different</em>.
+
+<figure><a href="http://triggersandsparks.com/wp-content/uploads/2012/02/IMG_0014.jpg"><img alt="Din Daeng" src="http://triggersandsparks.com/wp-content/uploads/2012/02/IMG_0014.jpg" /></a><figcaption>My "home" in Bangkok right now. I think I'd feel more sane if I were back here, even, just for a bit of familiarity to my environment (even though it looks rather gray and sad). I'd hate to think a place only resonates with me when I spend time exploring its dark little corners on my own, but it's entirely possible that's the case. Can you be homesick for multiple places and faces simultaneously?</figcaption></figure>
+
+It's hard for me to admit that I'm having so much trouble. It feels, ultimately, like a failure on my part. I'm only halfway through my grand world tour—why the <em>fuck</em> isn't everything all flowers and roses? Why is it that my brain keeps desperately contemplating booking a flight back "home"? I'm not even sure <em>where</em> I'm homesick for—I just want to be in a place that feels like home. It could probably be Bangkok, or Mexico, or Halifax, or even Buenos Aires maybe. There's a part of me that is just screaming out for a space I feel is mine and for environs that feel at least vaguely familiar.
+
+Having never really dealt with this before, I don't have a good solution that isn't "drinking large quantities of wine and hoping it goes away." Luckily, I have a travel companion who's good about understanding my particular quirks. I also have the resources to change and adapt my plans (inasmuch as I actually make plans) in order to ensure I don't go stark raving mad. I have a few more weeks of travel through Southeast Asia before I go back "home" to Bangkok, and I'm more interested in seeing the Mekong Delta and Saigon than I am in giving in to the whiny little child inside my head who needs things to be <em>a certain way</em>.
+
+<p class="cap">Maybe the trick, then, is accepting it for what it is, facing up to it, and making adjustments to keep it manageable. I'd hate myself if I let my own frustrations stop me from seeing and doing all the things I'd like to do and see. Ultimately, I don't think I'm a failure for finding things hard, but I think I'd be failing if I hid away from those hard things.</p>
+
+And so: <em>I'll just keep going</em>. If I were to run back "home" now, I'd probably feel equally displaced. Maybe by the time I hit Spain, I'll start to feel at home again.

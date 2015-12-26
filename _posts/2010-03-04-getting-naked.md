@@ -1,0 +1,36 @@
+---
+ID: 890
+post_title: Getting Naked
+author: sarah semark
+post_date: 2010-03-04 20:51:27
+post_excerpt: ""
+layout: post
+permalink: >
+  https://triggersandsparks.com/blog/getting-naked/
+published: true
+---
+Before I decided to become a designer, I held a whole array of jobs over the years to make my rent. I wrote for an online magazine and acted as "webmaster" for a local IT company during high school. I was briefly a knife salesman, before I realized I can't sell <em>anything</em>. I worked at a gas station on crack alley, serving coffee from the self-serve coffee counter to <em>very</em> confused customers. I was a maid for all of an hour (before I quit). I was a crossing guard, a security guard, and the world's fastest (and surliest) Subway employee. However, by far the oddest employment I've ever had came <em>after</em> my transition to a "career": <strong>I take my clothes off for money</strong>.
+
+<!--more-->
+
+[caption id="attachment_891" align="alignnone" width="450" caption="This is me--or was me, originally--done by the fantastic Sally Warren. I was hanging in a gallery (and may well still be)!"]<a href="http://www.triggersandsparks.com/wp-content/uploads/2010/03/IMG_0928.jpg"><img class="size-medium wp-image-891      " title="Sarah as Lillies" src="http://www.triggersandsparks.com/wp-content/uploads/2010/03/IMG_0928-500x750.jpg" alt="" width="450" height="675" /></a>[/caption]
+
+No, you (probably) won't be seeing me in pasties anytime soon—I'm a live model. This means that I take off all my clothes in front of a bunch of strangers and stand (or sit, and lie) around while a circle of artists draws me.
+
+Just to clarify a few things: I model for professional artists and students, not for some random dude with a pack of crayons and black satin sheets. Poses aren't typically very "sexy", and if they're explicit, that's only incidental. The entire process of modeling, in fact, isn't nearly as sexy as most people think it is—the most comfortable and natural-looking positions are often those that put the most intense strain on your body, it's often too cold (or too hot) in the room, various appendages will fall asleep left right and centre, and you need to be constantly thinking of what your next pose will be. There aren't drop-dead-gorgeous "models" wandering around in the buff all the time; figure drawing is less concerned with physical beauty than it is with the line and shape of the body (and all its varied imperfections). Often the most interesting models are overweight, wrinkly, extremely athletic, or strangely shaped, and models wear robes during breaks. It doesn't pay particularly well, and it's definitely not glamorous.
+
+Why do I do it, then? Initially, I tried it because it was something I'd never tried before, and something that scared me, which I count as a decent rationale for doing almost <em>anything</em>. I so wholeheartedly believe that you'll only grow and become a better person if you're constantly finding your boundaries and pushing them. I've never been terribly self-conscious, but the first time I dropped trou in front of a <em>silent-as-a-tomb</em> room, full of strangers, I was <em>petrified</em>. Not only did I have to get naked, but I also had to come up with a variety of poses, hold my body completely still, and make sure not to giggle, fall over, or fall asleep. (Later, of course, I've done all of these things.)
+
+Once the initial terror wore off, though (and it never totally wears off—I'm still shy the first instant I take off my robe in front of a new group of people), I came to love modelling. As a creative person, it allowed me to simultaneously act as muse and as collaborator: I create poses with my body, and the artists turn me into art. It gave me a better sense of myself and my body: what it looks like, what it feels like, how it moves, how flexible it is, and how to stand in the exact same position for an hour without falling over. (The trick is tiny, tiny, imperceptible shifts in your weight, by the by.) I learned not to care as much what other people thought, or <em>saw</em>; there was one man who consistently drew me about thirty pounds heavier than I actually was, and I learned not to take it personally. I became more comfortable in my own skin, and more sure of myself. Modelling made me feel strong, sexy, and self-assured.
+
+People often ask me if there isn't a power imbalance that happens—don't I feel degraded somehow, when a whole roomful of (clothed, mostly silent) strangers is sitting around staring at me, naked and posing for them? And actually, I've found it's rather the reverse—typically, the power in the room is all mine. I have an entire room following my lead: they flip pages when I change positions, they talk to me if I'm feeling chatty (usually I'm not), and they draw what I make for them to draw.
+
+I was once modeling for a group in Mahone Bay, and, during a break, one of the artists mentioned that he recognized my logo, tattooed to my shoulder blade—he'd emailed me just the day prior asking about having a website built. We later met up to discuss the project, and I was a touch concerned there might be an odd sort of power imbalance (very few of my clients have seen me naked). As it turned out, I was completely comfortable with the meeting, and there was no perceptible tension whatsoever. Quite often, boys have been hesitant to talk to me or even make eye contact, but I've never had anyone treat me with anything less than the utmost respect.
+
+[caption id="attachment_894" align="alignnone" width="449" caption="Done by a student at the animation school in Truro--their work is far more gesture-based and often times less &quot;artistic&quot;. (I&#39;m not sure who drew this, as a friend found it in their exhibition and took a photo for me. There are probably images of me all over the province at this point.)"]<a href="http://www.triggersandsparks.com/wp-content/uploads/2010/03/sarah1.jpg"><img class="size-medium wp-image-894  " title="sarah1" src="http://www.triggersandsparks.com/wp-content/uploads/2010/03/sarah1-499x612.jpg" alt="" width="449" height="551" /></a>[/caption]
+
+Since I sold my car, I haven't had much opportunity to do any modelling, as I typically did it in Mahone Bay and Truro, and I've come to realize how much I miss it—both for how it made me feel about myself, and for the way it allowed me time out to think about my work. It was a sort of brutal form of meditation, especially the longer poses, and it helped to focus on something other than the searing pain in my third vertebrae from the twist in my back, or the way my leg was spontaneously shaking from the stress. I'd work through design problems in my head as I was holding positions, then scribble sketches on scrap bits of paper whenever I had a break. I can't tell you the number of designs that rooted from this process.
+
+<strong>Sometimes, it really helps to get out of your comfort zone, and your usual workspace (both physically and mentally), in order to generate a solution. </strong>
+
+So, if you're a random dude with a box of crayons and black satin sheets, drop me an email! I need to get naked to jump-start the creative process.
