@@ -10,7 +10,7 @@ published: true
 Type:
   - 'a:1:{i:0;s:6:"custom";}'
 ---
-<h1 class="entry-title hello">Hello. I am Sarah &amp; I [phoenix-icon name="heart"]</h1>
+<h1 class="entry-title hello">Hello. I am Sarah &amp; I [phoenix-icon name="heart"]
 <div class="loves">
 <ul class="texts">
 	<li class="adventures">adventure!</li>
@@ -20,4 +20,5 @@ Type:
 	<li class="chocolate">chocolate!</li>
 </ul>
 </div>
+</h1>
 [wanderlist-map]
