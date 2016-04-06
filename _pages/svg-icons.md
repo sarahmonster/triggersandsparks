@@ -8,7 +8,7 @@ post_date: 2016-04-06 10:55:01
 post_excerpt: ""
 layout: page
 permalink: >
-  http://triggersandsparks.com/talks/i-learned-stop-using-icon-fonts-love-svg/
+  http://triggersandsparks.com/talks/svg-icons/
 published: true
 ---
 &nbsp;
