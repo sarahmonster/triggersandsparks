@@ -18,4 +18,7 @@ Presented at WordCamp London, April 2016
 <ul>
 	<li><a href="https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/">An overview of SVG sprite creation methods</a></li>
 	<li><a href="http://bdatech.org/what-technology/typefaces-for-dyslexia/">Typefaces for dyslexia</a></li>
+	<li><a href="https://css-tricks.com/lodge/svg/">CSS Tricks' vault of SVG articles</a></li>
+	<li><a href="https://www.youtube.com/watch?v=9xXBYcWgCHA">Seren Davies: Death to icon fonts</a></li>
+	<li><a href="https://css-tricks.com/creating-svg-icon-system-react/">Building an icon system with React</a></li>
 </ul>
