@@ -14,7 +14,7 @@ But I like doing things that terrify me, and I like figuring out how to get bett
 Also, it feels really great when it's over.
 <h2>Upcoming Talks</h2>
 <h3>How I learned to stop using icon fonts (and love SVG). WordCamp London, April 2016</h3>
-<ul>
+<ul style="margin-left: -2em;">
 	<li><a href="http://triggersandsparks.com/talks/i-learned-stop-using-icon-fonts-love-svg/">Resources</a></li>
 	<li><a href="http://www.slideshare.net/sarahsemark/how-i-learned-to-stop-using-icon-fonts-and-love-svg-slideshare?qid=b3e8babb-2cb9-4170-ac25-49f6b3282671&v=&b=&from_search=2">Slides</a></li>
 </ul>
