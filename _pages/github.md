@@ -5,9 +5,11 @@ author: sarah semark
 post_date: 2016-06-06 13:35:28
 post_excerpt: ""
 layout: page
-permalink: http://triggersandsparks.com/2921-2/
+permalink: http://triggersandsparks.com/github/
 published: true
 ---
+<p class="caps">For the past few months, I've been experimenting with using Github as a project management tool. Find out how you can leverage Github to improve your own process!</p>
+
 [slideshare id=60687364&doc=howilearnedtostopusingiconfontsandlovesvgslideshare-160409091317]
 Presented at DotYork, June 2016
 
