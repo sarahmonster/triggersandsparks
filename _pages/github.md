@@ -8,12 +8,10 @@ layout: page
 permalink: http://triggersandsparks.com/github/
 published: true
 ---
-<p class="caps">For the past few months, I've been experimenting with using Github as a project management tool. Find out how you can leverage Github to improve your own process!</p>
+<p class="cap">For the past few months, I've been experimenting with using Github as a project management tool. Find out how you can leverage Github to improve your own process!</p>
 
-[slideshare id=60687364&doc=howilearnedtostopusingiconfontsandlovesvgslideshare-160409091317]
+[slideshare id=62830913&doc=getridofyourganttcharts-160607222334]
 Presented at DotYork, June 2016
-
- <a href="http://www.slideshare.net/sarahsemark/how-i-learned-to-stop-using-icon-fonts-and-love-svg">Slides</a>.
 
 <h2>Resources</h2>
 <ul style="margin-left: -2em;">
