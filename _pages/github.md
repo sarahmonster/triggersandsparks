@@ -5,7 +5,8 @@ author: sarah semark
 post_date: 2016-06-06 13:35:28
 post_excerpt: ""
 layout: page
-permalink: http://triggersandsparks.com/github/
+permalink: >
+  http://triggersandsparks.com/talks/github/
 published: true
 ---
 <p class="cap">For the past few months, I've been experimenting with using Github as a project management tool. Find out how you can leverage Github to improve your own process!</p>
