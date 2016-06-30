@@ -3,7 +3,7 @@ ID: 2934
 post_title: Sunset over the British Empire
 author: sarah semark
 post_date: 2016-06-30 20:26:05
-post_excerpt: ""
+post_excerpt: "The UK is broken, and maybe we can't fix it."
 layout: post
 permalink: >
   http://triggersandsparks.com/blog/work/sunset-british-empire/
