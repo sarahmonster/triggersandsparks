@@ -66,7 +66,7 @@ National identity isn't about where you were born, or where you live, or what co
 
 Farage called this Britain's "independence day". Many have pointed out how incredibly offensive this is, given that most other countries in the world celebrate "independence day" as an independence from British colonialist powers. The irony there is pretty palpable.
 
-<p class="cap">And so there's a little part of me that thinks maybe this is for the best. Britain has felt like a country in decline for a long time, and the referendum result is a clear indication of how split we are politically. How the desires of one political entity can drive the choices of the entire union, as evidenced by Scotland's overwhelming "Remain" vote.</p>
+<p class="cap">And so there's a little part of me that thinks maybe this is for the best. Britain has felt increasingly like a country at odds with itself, both politically and culturally, for a long time. The referendum result is a clear indication of that split, and of how the desires of one political entity can drive the choices of the entire union.</p>
 
 Maybe the country that I love, and loathe, and have extremely complicated feelings about but have always, always, felt like it's my home and a part of who I am—maybe that country is dead. Maybe the United Kingdom is too broken to fix. You know how sometimes you're in a relationship and you have this really sad realisation that it's just not working, or you have a terrible fight and say awful things and nothing will ever be the same again? That's how I feel about the UK right now. <strong>We broke it and we can't fix it.</strong>
 
