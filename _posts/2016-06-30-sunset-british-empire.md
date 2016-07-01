@@ -6,7 +6,7 @@ post_date: 2016-06-30 20:26:05
 post_excerpt: "The UK is broken, and maybe we can't fix it."
 layout: post
 permalink: >
-  http://triggersandsparks.com/blog/work/sunset-british-empire/
+  http://triggersandsparks.com/blog/life/sunset-british-empire/
 published: true
 Subtitle:
   - >
@@ -16,7 +16,7 @@ Subtitle:
 ---
 Last week, I discovered a sense of patriotism.
 
-I am never had a strong sense of nationalistic identity. I'm not emotionally invested in the outcomes of sports games, the only flag I own is from the USSR, and I don't fully understand why people tear up at national anthems. The strongest inkling of national pride I have ever felt was when I watched that episode of <em>Doctor Who</em> with Winston Churchill. (In hindsight, that may have been extremely patriotic of me. It could only really be more quintessentially British if everyone were drinking tea and moaning about the weather.)
+I have never had a strong sense of nationalistic identity. I'm not emotionally invested in the outcomes of sports games, the only flag I own is from the USSR, and I don't fully understand why people tear up at national anthems. The strongest inkling of national pride I have ever felt was when I watched that episode of <em>Doctor Who</em> with Winston Churchill. (In hindsight, that may have been extremely patriotic of me. It could only really be more quintessentially British if everyone were drinking tea and moaning about the weather.)
 
 I was born in England. My first memories are of the UK. We moved to the Netherlands after my little sister was born; I spoke Dutch at school, and English at home. A few years later, we moved to Canada. In a misguided attempt to fit in, I developed a mental chart of English-to-English "translations" and picked up an accent that more closely resembled that of the American south than Canada. Some years later, I watched my dad's citizenship ceremony and thought the whole thing was a bit strange.
 
@@ -58,7 +58,7 @@ And so the UK democratically elects to leave the EU and suddenly there's a huge 
 
 <strong>This is what breaks my heart the most.</strong>
 
-<p class="cap">While the prospect of the UK breaking apart and the EU dissolving is saddening, the fact that so many people in a place I call home—and indeed, my "native" land—is utterly and indescribably heartbreaking. The wide-ranging array of immigrants and the resulting cultural diversity within Britain is one of the things that makes it Great. It's one of the things that makes me love it in spite of all its many faults. For fuck's sake, we have "The British Curry Awards". <strong>The unexpected side effect of hundreds of years of imperialism and destroying other people's countries is that you absorb bits of pieces of those cultures.</strong> And so in Britain we have curry and halloumi and pierogies and jerk chicken and duck pancakes and gnocchi and thank heavens we do, because otherwise we'd all be eating mushy peas and boiled potatoes.</p>
+<p class="cap">While the prospect of the UK breaking apart and the EU dissolving is saddening, watching people violently attack one another in a place I call home is utterly and indescribably heartbreaking. The wide-ranging array of immigrants and the resulting cultural diversity within Britain is one of the things that makes it Great. It's one of the things that makes me love it in spite of all its many faults. For fuck's sake, we have "The British Curry Awards". <strong>The unexpected side effect of hundreds of years of imperialism and destroying other people's countries is that you absorb bits of pieces of those cultures.</strong> And so in Britain we have curry and halloumi and pierogies and jerk chicken and duck pancakes and gnocchi and thank heavens we do, because otherwise we'd all be eating mushy peas and boiled potatoes.</p>
 
 Farage declared the referendum a victory for "decent people". While not inherently racist, this is unquestionably code for "white British people", or whoever the fuck these lunatics think counts as "real British people". From a national standpoint, I am British, first and foremost. But I wouldn't for a second say that makes anyone else any less British, and I don't dare presume that anyone is any less British than me because they look different. (Actually, generally I assume they're *more* British than I am.)
 
