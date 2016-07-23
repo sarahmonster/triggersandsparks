@@ -30,4 +30,8 @@ Presented at WordCamp Brighton, July 2016
 <li><a href="http://www.artofthetitle.com/">The Art of the Title</a></li>
 <li><a href="http://thefoxisblack.com">The Fox is Black</a></li>
   <li><a href="http://www.designsponge.com/">Design Sponge</a></li>
+<li><a href="http://beautifultype.net/">Beautiful Type</a></li>
+<li><a href="http://www.informationisbeautiful.net/">Information is Beautiful</a></li>
+<li><a href="http://www.underconsideration.com/brandnew/">Brand New</a></li>
+<li><a href="http://www.fastcodesign.com/">Fast Co Design</a></li>
 </ul>
