@@ -13,7 +13,7 @@ published: true
 ---
 <p class="cap">Once upon a time, icon fonts were the exciting new tools we used to build better websites. That time has passed, yet most of us are still relying on a tool that’s no longer relevant in the landscape of the modern web. In this talk, I’ll discuss the various merits of making the switch to SVG and some neat things you can do with SVG. We’ll touch on various use cases, and present some ideas for determining the workflow that’s best suited to your individual needs. We’ll provide some practical tips and tools for using SVG sprites more easily and efficiently in your work. We’ll also discuss ideas for implementing SVG within WordPress themes and plugins in a simple, consistent manner. Along the way, we’ll discuss various challenges you may encounter, and how to approach them. By the time we’re done, you’ll be fully armed to start using SVG today!</p> 
 
-[slideshare id=60687364&doc=howilearnedtostopusingiconfontsandlovesvgslideshare-160409091317]
+[wpvideo PW803dPr]
 
 Presented at WordCamp London, April 2016. <a href="http://www.slideshare.net/sarahsemark/how-i-learned-to-stop-using-icon-fonts-and-love-svg">Slides</a>. <a href="http://github.com/sarahsemark/easy-as-svg">Github repo</a>.
 
