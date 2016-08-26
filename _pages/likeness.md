@@ -25,10 +25,6 @@ Presented at WordCamp Brighton, July 2016
 <li><a href="http://www.briarpress.org/cuts/browse?t=19">Initial caps for download</a> via Briar Press</li>
 <li><a href="https://sarasoueidan.com/blog/css-svg-clipping/">Clipping in CSS and SVG</a></li>
 <li><a href="http://labs.jensimmons.com/">The experimental layout lab of Jen Simmons</a></li>
-</ul>
-
-<h2>Sources of Inspiration</h2>
-<ul style="margin-left: -2em;">
 <li><a href="http://lovelypackage.com/">Lovely Package</a></li>
 <li><a href="http://bookcoverarchive.com/">Book Cover Archive</a></li>
 <li><a href="http://designmilk.com">Design Milk</a></li>
