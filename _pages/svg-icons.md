@@ -34,5 +34,4 @@ Revised and presented at WP Glasgow meetup October 2016. <a href="http://www.sli
  	<li><a href="https://www.theguardian.com/artanddesign/2016/sep/06/emojis-shigetaka-kurita-mark-davis-coding-language">Emoji, the world's fastest-growing language</a></li>
  	<li><a href="http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/">Styling SVG &lt;use&gt; content with CSS</a></li>
  	<li><a href="https://svgontheweb.com/">SVG on the web: a practical guide</a></li>
- 	<li></li>
 </ul>
